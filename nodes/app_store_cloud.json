@@ -1,0 +1,14 @@
+{
+  "type": "app_base:Qmtesting",
+  "name": "app_store_cloud",
+  "data": {
+    "appId": "cloud_view_route",
+    "name": "Cloud Second for route viewing",
+    "release": "production",
+    "version": 1,
+    "releaseNotes": "...",
+    "owner": "secondai",
+    "defaultBranch": "master",
+    "repo": "app_cloud_view_route"
+  }
+}
