@@ -1,6 +1,6 @@
 {
   "type": "app_base:Qmtesting",
-  "name": "app_store_cloud",
+  "name": "app_cloud_view_route",
   "data": {
     "appId": "cloud_view_route",
     "name": "Cloud Second for route viewing",
